@@ -7,7 +7,7 @@ namespace BusinessLayer
     {
         public override void withdrawls(double n)
         {
-            if (Amount > n)
+            if (Amount >= n)
             {
                 Console.WriteLine("Enter the amount:");
                 this.Amount -= n;
