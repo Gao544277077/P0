@@ -144,7 +144,7 @@ namespace BusinessLayer
                 double n = Convert.ToDouble(Console.ReadLine());
                 n = Convert.ToDouble(n.ToString("#.##"));
                 cust.PLI = true;
-                payloanBL pbl = new payloanBL();
+                loanBL pbl = new loanBL();
                 Console.WriteLine("1 year plan:interest rate:10%  (1)\n 5 year plan(2):interest rate:15%\n other to main menu \n Enter a plan: ");
                 int i = Convert.ToInt32(Console.ReadLine());
                 if (i == 1)
@@ -201,7 +201,7 @@ namespace BusinessLayer
                 P.pay = true;
                 P.loan = P.loan - P.monthlypay;
                 P.Expiredate = P.Expiredate.AddMonths(1);
-                Console.WriteLine($"you have pay:  {P.monthlypay} of your {P.id} loan  and your remainder loan is {P.loan}");
+                Console.WriteLine($"you have pay:  {P.monthlypay} of your {P.id} loan account  and your remainder loan is {P.loan}");
 
                 if (P.loan == 0)
                 {
@@ -210,7 +210,7 @@ namespace BusinessLayer
             }
             catch (Exception)
             {
-                Console.WriteLine("you don't have this account.");
+                Console.WriteLine();
             }
 
         }
@@ -239,7 +239,7 @@ namespace BusinessLayer
             {
                 foreach (Loan b in cust.loanList)
                 {
-                    Console.WriteLine($"Id: {cust.Id} - Firstname: {cust.Firstname} - Lastname: {cust.Lastname} -Account Number: {b.id}");
+                    Console.WriteLine($"Id: {cust.Id} - Firstname: {cust.Firstname} - Lastname: {cust.Lastname} -Account Number: {b.id} -Due Date: {b.Expiredate}");
                 }
             }
 

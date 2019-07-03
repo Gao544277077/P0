@@ -2,7 +2,7 @@
 using Entities;
 namespace BusinessLayer
 {
-    public class payloanBL
+    public class loanBL
     {
         public Loan plan1(double loans)
         {
@@ -23,6 +23,7 @@ namespace BusinessLayer
                 l.loan += (l.monthlypay / 4);
                 l.monthlypay = l.loan / l.period;
                 l.monthlypay = Convert.ToDouble(l.monthlypay.ToString("#.##"));
+                l.Expiredate.AddMonths(1);
             }
             return l;
         }
@@ -43,6 +44,7 @@ namespace BusinessLayer
                 l.loan += (l.monthlypay / 4);
                 l.monthlypay = l.loan / l.period;
                 l.monthlypay = Convert.ToDouble(l.monthlypay.ToString("#.##"));
+                l.Expiredate.AddMonths(1);
             }
             return l;
         }
