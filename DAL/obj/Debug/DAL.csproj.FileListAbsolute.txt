@@ -1,0 +1,9 @@
+/Users/sgao/Projects/P0/DAL/bin/Debug/DAL.dll
+/Users/sgao/Projects/P0/DAL/bin/Debug/DAL.pdb
+/Users/sgao/Projects/P0/DAL/bin/Debug/Entities.dll
+/Users/sgao/Projects/P0/DAL/bin/Debug/Entities.pdb
+/Users/sgao/Projects/P0/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+/Users/sgao/Projects/P0/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/sgao/Projects/P0/DAL/obj/Debug/DAL.csproj.CopyComplete
+/Users/sgao/Projects/P0/DAL/obj/Debug/DAL.dll
+/Users/sgao/Projects/P0/DAL/obj/Debug/DAL.pdb

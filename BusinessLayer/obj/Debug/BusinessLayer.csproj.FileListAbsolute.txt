@@ -1,0 +1,11 @@
+/Users/sgao/Projects/P0/BusinessLayer/obj/Debug/BusinessLayer.csprojAssemblyReference.cache
+/Users/sgao/Projects/P0/BusinessLayer/obj/Debug/BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/sgao/Projects/P0/BusinessLayer/bin/Debug/BusinessLayer.dll
+/Users/sgao/Projects/P0/BusinessLayer/bin/Debug/BusinessLayer.pdb
+/Users/sgao/Projects/P0/BusinessLayer/bin/Debug/DAL.dll
+/Users/sgao/Projects/P0/BusinessLayer/bin/Debug/Entities.dll
+/Users/sgao/Projects/P0/BusinessLayer/bin/Debug/DAL.pdb
+/Users/sgao/Projects/P0/BusinessLayer/bin/Debug/Entities.pdb
+/Users/sgao/Projects/P0/BusinessLayer/obj/Debug/BusinessLayer.csproj.CopyComplete
+/Users/sgao/Projects/P0/BusinessLayer/obj/Debug/BusinessLayer.dll
+/Users/sgao/Projects/P0/BusinessLayer/obj/Debug/BusinessLayer.pdb

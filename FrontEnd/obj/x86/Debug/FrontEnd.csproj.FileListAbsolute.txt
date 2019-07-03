@@ -1,0 +1,13 @@
+/Users/sgao/Projects/P0/FrontEnd/bin/Debug/FrontEnd.exe
+/Users/sgao/Projects/P0/FrontEnd/bin/Debug/FrontEnd.pdb
+/Users/sgao/Projects/P0/FrontEnd/bin/Debug/BusinessLayer.dll
+/Users/sgao/Projects/P0/FrontEnd/bin/Debug/DAL.dll
+/Users/sgao/Projects/P0/FrontEnd/bin/Debug/Entities.dll
+/Users/sgao/Projects/P0/FrontEnd/bin/Debug/BusinessLayer.pdb
+/Users/sgao/Projects/P0/FrontEnd/bin/Debug/DAL.pdb
+/Users/sgao/Projects/P0/FrontEnd/bin/Debug/Entities.pdb
+/Users/sgao/Projects/P0/FrontEnd/obj/x86/Debug/FrontEnd.csprojAssemblyReference.cache
+/Users/sgao/Projects/P0/FrontEnd/obj/x86/Debug/FrontEnd.csproj.CoreCompileInputs.cache
+/Users/sgao/Projects/P0/FrontEnd/obj/x86/Debug/FrontEnd.csproj.CopyComplete
+/Users/sgao/Projects/P0/FrontEnd/obj/x86/Debug/FrontEnd.exe
+/Users/sgao/Projects/P0/FrontEnd/obj/x86/Debug/FrontEnd.pdb

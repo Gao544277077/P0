@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{AB1B054A-9BE2-4A55-80F4-BB1410281AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{955B79FB-1BEF-484B-84CA-3CC420073BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{87ED8307-D0E5-4426-82FD-AE688E2D29BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEnd", "FrontEnd\FrontEnd.csproj", "{FD648310-2D33-4336-A200-361CEFD7C01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1B054A-9BE2-4A55-80F4-BB1410281AC5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AB1B054A-9BE2-4A55-80F4-BB1410281AC5}.Debug|x86.Build.0 = Debug|Any CPU
+		{AB1B054A-9BE2-4A55-80F4-BB1410281AC5}.Release|x86.ActiveCfg = Release|Any CPU
+		{AB1B054A-9BE2-4A55-80F4-BB1410281AC5}.Release|x86.Build.0 = Release|Any CPU
+		{955B79FB-1BEF-484B-84CA-3CC420073BB9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{955B79FB-1BEF-484B-84CA-3CC420073BB9}.Debug|x86.Build.0 = Debug|Any CPU
+		{955B79FB-1BEF-484B-84CA-3CC420073BB9}.Release|x86.ActiveCfg = Release|Any CPU
+		{955B79FB-1BEF-484B-84CA-3CC420073BB9}.Release|x86.Build.0 = Release|Any CPU
+		{87ED8307-D0E5-4426-82FD-AE688E2D29BB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{87ED8307-D0E5-4426-82FD-AE688E2D29BB}.Debug|x86.Build.0 = Debug|Any CPU
+		{87ED8307-D0E5-4426-82FD-AE688E2D29BB}.Release|x86.ActiveCfg = Release|Any CPU
+		{87ED8307-D0E5-4426-82FD-AE688E2D29BB}.Release|x86.Build.0 = Release|Any CPU
+		{FD648310-2D33-4336-A200-361CEFD7C01E}.Debug|x86.ActiveCfg = Debug|x86
+		{FD648310-2D33-4336-A200-361CEFD7C01E}.Debug|x86.Build.0 = Debug|x86
+		{FD648310-2D33-4336-A200-361CEFD7C01E}.Release|x86.ActiveCfg = Release|x86
+		{FD648310-2D33-4336-A200-361CEFD7C01E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
