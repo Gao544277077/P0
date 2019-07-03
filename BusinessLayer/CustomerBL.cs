@@ -41,7 +41,7 @@ namespace BusinessLayer
                 if (cust.Id == id)
                 {
 
-                    Console.WriteLine("1:Businness Acoount/n2:Checking Account");
+                    Console.WriteLine("1:Businness Acoount\n2:Checking Account");
                     int i = Convert.ToInt32(Console.ReadLine());
                     if (i == 1)
                     {
@@ -114,12 +114,12 @@ namespace BusinessLayer
                         account.deposit(n);
                         trans = true;
                     }
-                    else
-                    {
+                    //else
+                    //{
 
-                        //Console.WriteLine("Not this Account");
-                        throw new Exception("Not this Account");
-                    }
+                    //    //Console.WriteLine("Not this Account");
+                    //    throw new Exception("Not this Account");
+                    //}
                 }
             }
             catch (Exception ex)
